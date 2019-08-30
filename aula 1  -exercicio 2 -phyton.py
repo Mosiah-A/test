@@ -1,0 +1,5 @@
+print('======Exercicio 2 =========')
+Dia=input('Dia: ')
+Mes=input('Mês: ')
+Ano=input('Ano: ')
+print('você nasceu no dia ', Dia, ' do Mês ', Mes, ' do ano de ', Ano)
