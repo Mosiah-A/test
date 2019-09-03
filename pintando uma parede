@@ -8,4 +8,4 @@ a = int(input('Digite a Altura: '))
 l = int(input('Digite a Largura: '))
 ar = l * a
 t = ar / 2
-print(' A area é de {} \n precisara de {} litros de tinta'. format(ar, t))
+print(' A area é de {:.1f} \n precisara de {:.1f} litros de tinta'. format(ar, t))
